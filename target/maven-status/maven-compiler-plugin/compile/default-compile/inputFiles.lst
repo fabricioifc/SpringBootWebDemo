@@ -1,0 +1,14 @@
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/MainApplication.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/model/Question.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/controller/PostController.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/model/Post.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/ApplicationConfiguration.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/repository/PostRepository.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/services/PostService.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/fabricio/Desktop/DemoSpring/src/main/java/com/example/postgresdemo/controller/QuestionController.java
